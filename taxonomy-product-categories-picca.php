@@ -13,7 +13,6 @@
           // print_r($catalog_nav_items);s
         ?>
 
-        <?php echo "commit" ?>
         <ul class="catalog-nav__wrapper">
           <li class="catalog-nav__item">
             <a href="<?php echo get_site_url().'/products/'; ?>" class="catalog-nav__btn" >все</a>
